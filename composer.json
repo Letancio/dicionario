@@ -1,0 +1,16 @@
+{
+    "name": "snipe/dicionario",
+    "description": "aplicação de dicionario que consome uma api",
+    "autoload": {
+        "psr-4": {
+            "Snipe\\Dicionario\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Letancio Marinho",
+            "email": "61944081+Letancio@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
